@@ -1,2 +1,3 @@
-# java-aes
-Java AES
+# Java AES
+
+javac Main.java && java Main
